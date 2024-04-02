@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this lab, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups.
+Project Summary: This Project is a walkthrough of the steps I took to showcase various network protocols in action using Microsoft Azure in the Windows 10 operating System. Using Wireshark to monitor different protocol traffic, we can observe various network traffic to and from Azure Virtual Machines. In this project, we also experiment with Network Security Groups which serve as firewalls between virtual machines.
 
 
 <h2>Environments and Technologies Used</h2>
